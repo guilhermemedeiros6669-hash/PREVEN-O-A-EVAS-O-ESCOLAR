@@ -1,0 +1,6 @@
+{
+  "name": "Sentinela Escolar — Alerta Precoce de Evasão",
+  "description": "Sistema de Alerta Precoce e Prevenção de Evasão Escolar com Random Forest, análise de importância de variáveis por aluno e código completo em Python/Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
